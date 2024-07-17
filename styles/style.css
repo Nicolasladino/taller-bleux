@@ -634,8 +634,10 @@ footer {
     .text2 {
         left: -5%;
         top: 11rem;
-        font-size: 1rem;
+        font-size: 15px;
         text-align: center;
+        width: 90%;
+        margin-left: 5%;
     }
 
     .buttons {
@@ -763,7 +765,7 @@ footer {
     }
 
     .free,.standard,.ultimate{
-        width: 450px;
-        margin-left: 0%;
+        width: 430px;
+        
     }
 }
