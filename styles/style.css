@@ -47,7 +47,7 @@ a:hover {
     height: 3rem;
     width: 7rem;
     background-image: linear-gradient(45deg, #aa21d7, #36a2eb);
-    padding: 10px 20px;
+    padding: 7px 10px;
     color: white;
     text-decoration: none;
     border-radius: 1px;
@@ -570,7 +570,7 @@ footer {
     .free,
     .standard,
     .ultimate {
-        width: 100%;
+        width: 90%;
         margin-left: 0;
     }
 
@@ -757,13 +757,13 @@ footer {
     .text3 {
         color: #ffffff7b;
         width: 400px;
-        margin-left: 10%;
+        margin-left: 5%;
         margin-right: 10%;
         font-size: 17px;
     }
 
     .free,.standard,.ultimate{
         width: 450px;
-        margin-left: 3%;
+        margin-left: 0%;
     }
 }
